@@ -19,7 +19,8 @@
 			"label": "rust: cargo run"
 		},{
 			"type": "cargo",
-			"command": "build --release",
+			"command": "build",
+			"args": ["--release"],
 			"problemMatcher": [
 				"$rustc"
 			],
