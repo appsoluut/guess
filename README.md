@@ -1,4 +1,6 @@
 # Guess the number
+[![Rust](https://github.com/appsoluut/guess/actions/workflows/rust.yml/badge.svg)](https://github.com/appsoluut/guess/actions/workflows/rust.yml)
+
 Guess the number game written in Rust. The game will generate a secret number that you need to guess. Every guess will give you a hint if your guess is too big or to small. When the correct number has been guessed, you'll get a "You win!" message and the game will quit.
 
 ## How to compile
